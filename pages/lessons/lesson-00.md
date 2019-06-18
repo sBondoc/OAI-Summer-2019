@@ -55,11 +55,11 @@ int main() {
 ```javascript
 
 function main() {
-    console.log("Hello world!");
-    console.log("Here are the numbers 1-10:");
-    for (var i = 1;i < 11;i++) {
-       console.log(i) 
-    }
+	console.log("Hello world!");
+	console.log("Here are the numbers 1-10:");
+	for (var i = 1;i < 11;i++) {
+		console.log(i) 
+	}
 }
 
 ```
