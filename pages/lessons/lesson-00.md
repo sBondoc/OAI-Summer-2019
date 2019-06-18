@@ -9,7 +9,7 @@ AppLab is a tool similar to MIT App Inventor and Thunkable that is intended for 
 
 This...
 
-![01](https://github.com/sBondoc/oai_2019/assets/lesson-00/01.png)
+![01](https://raw.githubusercontent.com/sBondoc/oai_2019/master/assets/lesson-00/00.png)
 
 ... just looks a little nicer than this...
 
