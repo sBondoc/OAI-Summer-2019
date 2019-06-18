@@ -90,3 +90,4 @@ When doing the exercises on Code.org, feel free to continue using code blocks as
 ---
 
 <div style="text-align: right"><a href = "https://sbondoc.github.io/oai_2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2KHYUhtOlM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
