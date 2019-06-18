@@ -87,6 +87,24 @@ AppLab helps facilitate the transition between code blocks and text by allowing 
 
 When doing the exercises on Code.org, feel free to continue using code blocks as you've been doing with the MIT App Inventor or Thunkable. However, it is strongly recommended that you use the text editor as much as possible, as this extension to the curriculum is intended to help you familiarize yourself with writing actual code.
 
+## AppLab emulator
+
+* AppLab doesn't have a companion app to run on a device
+* Instead, there's a "screen" on the left of the workspace that represents a phone screen
+* No emulator download necessary
+
+Unlike with Thunkable and the MIT App Inventor, you don't have to download an app onto your phone, connect via USB, or utilize any external resources. There is an emulator right on the page next to the workspace.
+
+In order to run your code, simply click the "Run" button underneath.
+
+
+
+The "Reset" button that appears after the "Run" button is clicked terminates the code in progress.
+
+
+
+The drawback with AppLab is that there is no way to export what you've created to its own standalone app like with the MIT App Inventor, and certain sensor functionalities (such as the accelerometer and gyroscope) are not available for use in AppLab.
+
 ---
 
 <div style="text-align: right"><a href = "https://sbondoc.github.io/oai_2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
