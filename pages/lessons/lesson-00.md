@@ -86,6 +86,4 @@ AppLab helps facilitate the transition between code blocks and text by allowing 
 
 When doing the exercises on Code.org, feel free to continue using code blocks as you've been doing with the MIT App Inventor or Thunkable. However, it is strongly recommended that you use the text editor as much as possible, as this extension to the curriculum is intended to help you familiarize yourself with writing actual code.
 
-|Previous | Next|
-|---------|----:|
-|<        |    >|
+<div style="text-align: right"> your-text-here </div>
