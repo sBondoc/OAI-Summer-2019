@@ -64,7 +64,9 @@ function main() {
 }
 ```
 
-... or in pretty much any other coding language. Most Android apps are written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), whereas most iOS apps use [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)). Don't worry about or feel overwhelmed by the amount of programming languages that exist; if you intend to find a job in software development, you'll come across and learn the ones you need to know as you progress throughout your career.
+... or in pretty much any other coding language. Most Android apps are written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), whereas most iOS apps use [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)).
+
+Don't worry about or feel overwhelmed by the amount of programming languages that exist; if you intend to find a job in software development, you'll come across and learn the ones you need to know as you progress throughout your career.
 
 For now, we'll focus on how to code using AppLab.
 
