@@ -15,6 +15,8 @@ This...
 
 ![02](https://raw.githubusercontent.com/sBondoc/oai_2019/master/assets/lesson-00/01.png "Ahhh!")
 
+Granted, the former and the latter do not represent codes that perform the same task, but the idea remains the same: code blocks are a more user-friendly visual aid.
+
 ## Coding Languages
 
 * You can write programs that do the same thing in different ways
