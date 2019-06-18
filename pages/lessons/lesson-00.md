@@ -89,4 +89,8 @@ When doing the exercises on Code.org, feel free to continue using code blocks as
 
 ---
 
+
+
 <div style="text-align: right"><a href = "https://sbondoc.github.io/oai_2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
+
+
