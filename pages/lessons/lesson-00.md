@@ -68,7 +68,7 @@ function main() {
 
 ## Coding with AppLab
 
-* AppLab utilizes code written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (different from Java), with UI elements being coded in [HTML](https://en.wikipedia.org/wiki/HTML)
+* AppLab utilizes code written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (*not* Java), with UI elements being coded in [HTML](https://en.wikipedia.org/wiki/HTML)
 * UI elements are created in with their own interface, similar to MIT App Inventor and Thunkable
 * With AppLab, you can toggle between code blocks and a text editor for scripts
 
