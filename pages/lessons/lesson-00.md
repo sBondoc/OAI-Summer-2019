@@ -35,7 +35,7 @@ You can have a program display the numbers 1-10 on new lines...
 def main():
 	print("Hello world!\nHere are the numbers 1-10:")
 	for i in range(10):
-		print(i)
+		print(i + 1)
 
 ```
 
