@@ -7,7 +7,7 @@ AppLab is a tool similar to MIT App Inventor and Thunkable that is intended for 
 * Code blocks aren't used in real-world programs
 * The're an introductory tool
 
-This...
+Basically, this...
 
 ![01](https://raw.githubusercontent.com/sBondoc/oai_2019/master/assets/lesson-00/00.png "I guess it looks colorful...")
 
@@ -23,6 +23,8 @@ Granted, the former and the latter do not represent codes that perform the same 
 * Coding languages are like tools; each one is better suited for certain tasks than others
 
 You can have a program display the numbers 1-10 on new lines...
+
+![03](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/03.png?raw=true "Console text.")
 
 ... using Python...
 
