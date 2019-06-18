@@ -31,18 +31,15 @@ You can have a program display the numbers 1-10 on new lines...
 ... using Python...
 
 ```python
-
 def main():
 	print("Hello world!\nHere are the numbers 1-10:")
 	for i in range(10):
 		print(i + 1)
-
 ```
 
 ... or C...
 
 ```c
-
 #include <stdio.h>
 
 int main() {
@@ -53,13 +50,11 @@ int main() {
 
 	return 0;
 }
-
 ```
 
 ... or JavaScript...
 
 ```javascript
-
 function main() {
 	console.log("Hello world!");
 	console.log("Here are the numbers 1-10:");
@@ -67,12 +62,11 @@ function main() {
 		console.log(i) 
 	}
 }
-
 ```
 
 ... or in pretty much any other coding language. Most Andraid apps are written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), whereas most iOS apps use [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)).
 
-## AppLab
+## Coding with AppLab
 
 * AppLab utilizes code written in JavaScript, with UI elements being coded in [HTML](https://en.wikipedia.org/wiki/HTML)
 * UI elements are created in with their own interface, similar to MIT App Inventor and Thunkable
