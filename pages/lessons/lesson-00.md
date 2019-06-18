@@ -28,7 +28,7 @@ You can have a program display the numbers 1-10 on new lines...
 
 ![03](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/02.png?raw=true "Console text.")
 
-... using Python...
+... using [Python](https://en.wikipedia.org/wiki/Python_(programming_language))...
 
 ```python
 def main():
@@ -37,7 +37,7 @@ def main():
 		print(i + 1)
 ```
 
-... or C...
+... or [C](https://en.wikipedia.org/wiki/C_(programming_language))...
 
 ```c
 #include <stdio.h>
@@ -52,7 +52,7 @@ int main() {
 }
 ```
 
-... or JavaScript...
+... or [JavaScript](https://en.wikipedia.org/wiki/JavaScript)...
 
 ```javascript
 function main() {
@@ -64,11 +64,13 @@ function main() {
 }
 ```
 
-... or in pretty much any other coding language. Most Android apps are written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), whereas most iOS apps use [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)). AppLab will be using 
+... or in pretty much any other coding language. Most Android apps are written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), whereas most iOS apps use [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)). Don't worry about or feel overwhelmed by the amount of programming languages that exist; if you intend to find a job in software development, you'll come across and learn the ones you need to know as you progress throughout your career.
+
+For now, we'll focus on how to code using AppLab.
 
 ## Coding with AppLab
 
-* AppLab utilizes code written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (*not* Java), with UI elements being coded in [HTML](https://en.wikipedia.org/wiki/HTML)
+* AppLab utilizes code written in JavaScript (_not_ Java), with UI elements being coded in [HTML](https://en.wikipedia.org/wiki/HTML)
 * UI elements are created in with their own interface, similar to MIT App Inventor and Thunkable
 * With AppLab, you can toggle between code blocks and a text editor for scripts
 
