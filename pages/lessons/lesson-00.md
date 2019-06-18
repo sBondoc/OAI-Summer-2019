@@ -78,3 +78,10 @@ function main() {
 * UI elements are created in with their own interface, similar to MIT App Inventor and Thunkable
 * With AppLab, you can toggle between code blocks and a text editor for scripts
 
+If you started with the MIT App Inventor or Thunkable, you're probably more accustomed to looking at code blocks.
+
+![04](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/04.png?raw=true "Code blocks.")
+
+AppLab aids with a visual transition between code blocks and text. The code blocks above are expressed in text below.
+
+![05](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/05.png?raw=true "Console text.")
