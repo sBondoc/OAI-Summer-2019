@@ -26,7 +26,7 @@ Granted, the former and the latter do not represent codes that perform the same 
 
 You can have a program display the numbers 1-10 on new lines...
 
-![03](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/03.png?raw=true "Console text.")
+![03](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/02.png?raw=true "Console text.")
 
 ... using Python...
 
@@ -74,8 +74,8 @@ function main() {
 
 If you started with the MIT App Inventor or Thunkable, you're probably more accustomed to looking at code blocks, which you can still use in AppLab.
 
-![04](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/04.png?raw=true "Code blocks.")
+![04](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/03.png?raw=true "Code blocks.")
 
 AppLab helps facilitate the transition between code blocks and text by allowing you to fluidly switch between the two. The code blocks above are expressed in text below.
 
-![05](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/05.png?raw=true "Console text.")
+![05](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/04.png?raw=true "Console text.")
