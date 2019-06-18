@@ -45,7 +45,7 @@ def main():
 
 int main() {
 	printf("Hello world!\nHere are the numbers 1-10:");
-	for (int i = 1; i < 11;i++) {
+	for (int i = 1; i < 11; i++) {
 		printf("\n%d", i);
 	}
 
@@ -61,7 +61,7 @@ int main() {
 function main() {
 	console.log("Hello world!");
 	console.log("Here are the numbers 1-10:");
-	for (var i = 1;i < 11;i++) {
+	for (var i = 1; i < 11; i++) {
 		console.log(i) 
 	}
 }
