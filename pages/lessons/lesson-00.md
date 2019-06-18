@@ -88,4 +88,7 @@ When doing the exercises on Code.org, feel free to continue using code blocks as
 
 ---
 
-Previous <div style="text-align: right"><a href = "https://sbondoc.github.io/oai_2019/pages/lessons/lesson-00.html">Next</a></div>
+<p style="text-align:left;">
+This text is left aligned
+<span style="float:right;">This text is right aligned</span>
+</p>
