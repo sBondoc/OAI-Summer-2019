@@ -1,11 +1,12 @@
 # Intro to AppLab
 
-AppLab is a tool similar to MIT App Inventor and Thunkable that is intended for use as an introductory platform for app development.
+AppLab is a tool similar to the [MIT App Inventor](https://appinventor.mit.edu/) and [Thunkable](https://thunkable.com) that is intended for use as an introductory platform for app development.
 
 ## Transitioning to new platforms
 
 * Code blocks aren't used in real-world programs
 * The're an introductory tool
+* It's time to move on
 
 Basically, this...
 
@@ -21,6 +22,7 @@ Granted, the former and the latter do not represent codes that perform the same 
 
 * You can write programs that do the same thing in different ways
 * Coding languages are like tools; each one is better suited for certain tasks than others
+* Mobile apps are often times coded differently from desktop applications
 
 You can have a program display the numbers 1-10 on new lines...
 
@@ -72,4 +74,7 @@ function main() {
 
 ## AppLab
 
-AppLab 
+* AppLab utilizes code written in JavaScript, with UI elements being coded in [HTML](https://en.wikipedia.org/wiki/HTML)
+* UI elements are created in with their own interface, similar to MIT App Inventor and Thunkable
+* With AppLab, you can toggle between code blocks and a text editor for scripts
+
