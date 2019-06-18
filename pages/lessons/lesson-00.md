@@ -88,7 +88,4 @@ When doing the exercises on Code.org, feel free to continue using code blocks as
 
 ---
 
-<p style="text-align:left;">
-This text is left aligned
-<span style="float:right;">This text is right aligned</span>
-</p>
+<div style="text-align: right"> Continue </div>
