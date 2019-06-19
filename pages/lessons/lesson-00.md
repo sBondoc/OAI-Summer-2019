@@ -11,11 +11,11 @@ app development.
 
 Basically, this...
 
-![01](https://raw.githubusercontent.com/sBondoc/oai_2019/master/assets/lesson-00/00.png "I guess it looks colorful...")
+![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/00.png "I guess it looks colorful...")
 
 ... just looks a little nicer than this...
 
-![02](https://raw.githubusercontent.com/sBondoc/oai_2019/master/assets/lesson-00/01.png "Ahhh!")
+![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/01.png "Ahhh!")
 
 Granted, the former and the latter do not represent codes that perform the same task, but the idea remains the same: code blocks are a more user-friendly visual aid.
 
@@ -27,7 +27,7 @@ Granted, the former and the latter do not represent codes that perform the same 
 
 You can have a program display the numbers 1-10 on new lines...
 
-![03](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/02.png?raw=true "Console text.")
+![03](https://github.com/sBondoc/OAI-Summer-2019/blob/master/assets/lesson-00/02.png?raw=true "Console text.")
 
 ... using [Python](https://en.wikipedia.org/wiki/Python_(programming_language))...
 
@@ -79,11 +79,11 @@ For now, we'll focus on how to code using AppLab.
 
 If you started with the MIT App Inventor or Thunkable, you're probably more accustomed to looking at code blocks, which you can still use in AppLab.
 
-![04](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/03.png?raw=true "Code blocks.")
+![04](https://github.com/sBondoc/OAI-Summer-2019/blob/master/assets/lesson-00/03.png?raw=true "Code blocks.")
 
 AppLab helps facilitate the transition between code blocks and text by allowing you to fluidly switch between the two. The code blocks above are expressed in text below.
 
-![05](https://github.com/sBondoc/oai_2019/blob/master/assets/lesson-00/04.png?raw=true "Console text.")
+![05](https://github.com/sBondoc/OAI-Summer-2019/blob/master/assets/lesson-00/04.png?raw=true "Console text.")
 
 When doing the exercises on Code.org, feel free to continue using code blocks as you've been doing with the MIT App Inventor or Thunkable. However, it is strongly recommended that you use the text editor as much as possible, as this extension to the curriculum is intended to help you familiarize yourself with writing actual code.
 
@@ -107,4 +107,4 @@ The drawback with AppLab is that there is no way to export what you've created t
 
 ---
 
-<div style="text-align: right"><a href = "https://sbondoc.github.io/oai_2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
+<div style="text-align: right"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
