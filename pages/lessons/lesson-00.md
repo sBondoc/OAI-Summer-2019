@@ -1,7 +1,3 @@
-<head>
-  <link rel="icon" href="https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/favicon.ico" type="image/x-icon">
-</head>
-
 # Intro to AppLab
 
 [AppLab](https://code.org/educate/applab) at [Code.org](https://code.org) is a tool similar to the [MIT App Inventor](https://appinventor.mit.edu/) and [Thunkable](https://thunkable.com) that is intended for use as an introductory platform to
