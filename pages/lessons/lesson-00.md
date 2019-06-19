@@ -11,7 +11,7 @@ app development.
 
 Basically, this...
 
-![00](/assets/lesson-00/00.png "I guess it looks colorful...")
+![00](/assets/lesson-00/00 "I guess it looks colorful...")
 
 ... just looks a little nicer than this...
 
