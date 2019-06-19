@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/favicon.ico" type="image/x-icon">
 </head>
 
 # Intro to AppLab
