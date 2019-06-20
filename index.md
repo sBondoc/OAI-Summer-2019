@@ -8,3 +8,5 @@
 * Design
 
 # Android Studio Lesson Directory
+
+_Coming soon!™_
