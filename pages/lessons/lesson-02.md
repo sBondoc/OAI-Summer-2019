@@ -49,7 +49,7 @@ function main() {
   turnLeft();
   moveForward();
   moveForward();
-  myFunction
+  myFunction();
 }
 
 function myFunction() {
