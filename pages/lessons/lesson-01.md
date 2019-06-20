@@ -29,6 +29,8 @@ moveForward();
 moveForward();
 ```
 
+Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't forget to add them at the end.
+
 Executing this code should yield the following end result:
 
 ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/01.png "Final display.")
