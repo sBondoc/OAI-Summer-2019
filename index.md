@@ -14,12 +14,12 @@ Lessons with links to Code.org exercises are designed to correspond with activit
 
 * **[Intro to AppLab](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-00.html)** - An overview of the AppLab platform.
 * **[Turtle programming](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html)** - Coding with turtle graphics.
-* **[Functions]()** - Callable subroutines.
-* **[Loops]()** - Sequences of repeated instructions.
-* **[Variables]()** - Changeable stored values.
-* **[Conditionals]()** - Implementation of logic.
-* **[Parameters]()** - Input variables.
-* **[Design]()** - Description of the elements of AppLab's "Design" tab.
+* **[Functions](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html)** - Callable subroutines.
+* **[Parameters](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-03.html)** - Input variables.
+* **[Loops](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-04.html)** - Sequences of repeated instructions.
+* **[Design](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-05.html)** - Description of the elements of AppLab's "Design" tab.
+* **[Variables](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-06.html)** - Changeable stored values.
+* **[Conditionals](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-07.html)** - Implementation of logic.
 
 ## Android Studio
 
