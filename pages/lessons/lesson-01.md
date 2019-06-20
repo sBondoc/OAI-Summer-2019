@@ -6,11 +6,11 @@ Programming using [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphic
 
  <b><a href = "https://studio.code.org/s/csp3-2019/stage/4/puzzle/1" target = "_blank">Lesson 4: "Using Simple Commands"</a></b> _from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)_
 
-## Coding
+## Commands
 
 * Commands are basic instructions to be executed by the code
 * Executed in order from top to bottom
-* Can type code or use blocks
+* Turtle commands are meant to be easier to interpret
 
 In AppLab, turtle commands are simplified so that there is an intuitive correlation between what the command does visually to the "turtle" (the arrow on the emulator) and its name. For example, the `moveForward()` command moves the turtle forward (i.e. changes its position to be a set distance away from its current position in the direction it is facing), and the `turnLeft()` command turns the turtle to the left (i.e. rotates it 90° counterclockwise).
 
@@ -34,6 +34,16 @@ Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't
 Executing this code should yield the following end result:
 
 ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/01.png "Final display.")
+
+## Coding in AppLab
+
+* You can code using blocks or the text editor
+* Toggling between the two views allows you to see what blocks look like in text form
+* Beware of syntax in the text editor
+
+Using code blocks is as simple as dragging and dropping the commands you wish to use into the workspace.
+
+You can also box select code blocks and copy/paste them using the <kbd>control</kbd> + <kbd>c</kbd>/
 
 ## Debugging in AppLab
 
