@@ -11,7 +11,7 @@ app development.
 
 Basically, this...
 
-![00](/OAI-Summer-2019/master/assets/lesson-00/00.png "I guess it looks colorful...")
+![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/00.png "I guess it looks colorful...")
 
 ... just looks a little nicer than this...
 
