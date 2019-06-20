@@ -8,6 +8,8 @@ This page contains curricula designed to teach the basics of app development and
 
 These lessons will focus on using AppLab to solidify the basics of coding taught previously through code blocks.
 
+Lessons with links to Code.org exercises are designed to correspond with activities that are to be completed alongside learning the material from the lesson.
+
 ### Lessons
 
 * [Intro to AppLab](/pages/lessons/lesson-00.html)
