@@ -45,7 +45,7 @@ Using code blocks is as simple as dragging and dropping the commands you wish to
 
 ![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/02.gif "Adding block commands.")
 
-You can also box select code blocks and copy/paste them using the <kbd>ctrl</kbd>+<kbd>c</kbd>/<kbd>ctrl</kbd>+<kbd>v</kbd> keyboard shortcuts.
+You can also box select code blocks and copy/paste them using the [<kbd>ctrl</kbd>+<kbd>c</kbd>]/[<kbd>ctrl</kbd>+<kbd>v</kbd>] keyboard shortcuts.
 
 ![03](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/03.gif "Box selecting, copying, and pasting block commands.")
 
