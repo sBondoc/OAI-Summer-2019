@@ -6,13 +6,14 @@ Programming using [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphic
 
  <b><a href = "https://studio.code.org/s/csp3-2019/stage/4/puzzle/1" target = "_blank">Lesson 4: "Using Simple Commands"</a></b> _from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)_
 
-## Commands
-
-
-
 ## Coding
 
-* Turtle commands are simplified
+* Commands are basic instructions to be executed by the code
 * Executed in order from top to bottom
 * Can type code or use blocks
 
+In AppLab, turtle commands are simplified so that there is an intuitive visual correlation between what the command does to the "turtle" (the arrow on the emulator) and its name. For example, the `moveForward()` command moves the turtle forward (i.e. changes its position to be a set distance away from its current position in the direction it is facing), and the `turnLeft()` turns the turtle to the left (i.e. rotates it 90° counterclockwise).
+
+---
+
+<div style="text-align: right"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
