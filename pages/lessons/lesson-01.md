@@ -87,9 +87,6 @@ When doing turtle programming, this allows you to see the actions of the turtle 
 
 More details on debug tools available in AppLab will be covered at a later time. For now, the speed controls are to be used as a way of browsing the inner workings of the instructions brought together in the program and learning the sequential nature of programs.
 
-## Comparison with MIT App Inventor
-
-
 ---
 
 <div style="text-align: right"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
