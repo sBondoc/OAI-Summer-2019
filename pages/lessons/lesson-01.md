@@ -14,6 +14,15 @@ Programming using [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphic
 
 In AppLab, turtle commands are simplified so that there is an intuitive visual correlation between what the command does to the "turtle" (the arrow on the emulator) and its name. For example, the `moveForward()` command moves the turtle forward (i.e. changes its position to be a set distance away from its current position in the direction it is facing), and the `turnLeft()` turns the turtle to the left (i.e. rotates it 90° counterclockwise).
 
+In any coding language at their base level, commands are executed line by line from top to bottom. So, if you wanted your turtle to move forward 3 times, turn left, and then move forward 2 times, the code would look something like this...
+
+```javascript
+moveForward();
+moveForward();
+moveForward();
+turnLeft();
+moveForward();
+moveForward();
 ---
 
 <div style="text-align: right"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
