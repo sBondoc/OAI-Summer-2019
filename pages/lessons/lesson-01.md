@@ -43,7 +43,7 @@ Executing this code should yield the following end result:
 
 Using code blocks is as simple as dragging and dropping the commands you wish to use into the workspace.
 
-You can also box select code blocks and copy/paste them using the <kbd>control</kbd> + <kbd>c</kbd>/
+You can also box select code blocks and copy/paste them using the <kbd>ctrl</kbd>+<kbd>c</kbd>/<kbd>ctrl</kbd>+<kbd>v</kbd>
 
 ## Debugging in AppLab
 
