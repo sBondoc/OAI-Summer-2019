@@ -16,7 +16,7 @@ In AppLab, turtle commands are simplified so that there is an intuitive correlat
 
 In any coding language at their base level, commands are executed line by line from top to bottom. So, if you wanted your turtle to move forward 3 times, turn left, and then move forward 2 times, the code would look something like this in blocks...
 
-![00]("Block sample code.")
+![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/00.png "Block sample code.")
 
 ... or this in text...
 
@@ -31,7 +31,7 @@ moveForward();
 
 Executing this code should yield the following end result:
 
-![01]("Final display.")
+![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/01.png "Final display.")
 
 ## Debugging in AppLab
 
