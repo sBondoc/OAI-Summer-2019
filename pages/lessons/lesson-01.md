@@ -89,6 +89,6 @@ More details on debug tools available in AppLab will be covered at a later time.
 
 ---
 
-<div align="left">Left</div><div align="center">Center</div><div align="right">Right</div>
+<span align="left">Left</span><span align="center">Center</span><span align="right">Right</span>
 
 <div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...</b></i></a></div>
