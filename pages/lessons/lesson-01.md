@@ -89,4 +89,4 @@ More details on debug tools available in AppLab will be covered at a later time.
 
 ---
 
-<div align="center"> < <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-00.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html"><b>>></b></a></div>
+<div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-00.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html"><b>>></b></a></div>
