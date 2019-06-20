@@ -16,11 +16,11 @@ Functions are subroutines that can be called like commands. Essentially, making 
 
 Adding commands to a function is the same as adding commands to the main code. You can use code blocks...
 
-![00](Adding code blocks to function blocks.)
+![00]("Adding code blocks to function blocks.")
 
 ... or you can type text...
 
-![01](Adding text to function definitions.)
+![01]("Adding text to function definitions.")
 
 In virtually every coding language, indentation is used to keep thinks like function definitions organized (although in some cases indentation may not be required). This way it is easier to discern which commands are part of the function you're looking at.
 
@@ -32,11 +32,11 @@ In virtually every coding language, indentation is used to keep thinks like func
 
 You may remember using functions in Thunkable or MIT App Inventor.
 
-![02](Thunkable function blocks.)
+![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-02/02.png "Thunkable function blocks.")
 
 Something similar can be done in AppLab.
 
-![03](AppLab function blocks.)
+![03](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-02/03.png "AppLab function blocks.")
 
 There is no function definition or command for `moveForward` or `turnLeft` in Thunkable, so it would result in an error if executed. However, even if they were defined, the code still wouldn't do anything. Niether would the above JavaScript. This is because both the Thunkable blocks and the JavaScript code lack a function call. That is, the function is defined, but it is not being executed. In Thunkable, there needs to be an event or trigger for anything to happen, and in the JavaScript above, there is nothing in the main code that calls for `main()` (a function) or `myFunction()` to be executed.
 
