@@ -83,7 +83,7 @@ AppLab has a slider under the workspace that allows you to change the execution 
 
 When doing turtle programming, this allows you to see the actions of the turtle that you'd otherwise be unable to see with near-instantaneous execution of the code. Moreover, AppLab highlights each line of code as it is run run when the execution speed is not set to instantaneous (with the slider all the way to the right).
 
-![10]("Line-by-line highlighting and execution.")
+![10](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/10.gif "Line-by-line highlighting and execution.")
 
 More details on debug tools available in AppLab will be covered at a later time.
 
