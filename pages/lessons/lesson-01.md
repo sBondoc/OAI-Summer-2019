@@ -43,23 +43,23 @@ Executing this code should yield the following end result:
 
 Using code blocks is as simple as dragging and dropping the commands you wish to use into the workspace.
 
-![02](Adding block commands.)
+![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/02.gif "Adding block commands.")
 
 You can also box select code blocks and copy/paste them using the <kbd>ctrl</kbd>+<kbd>c</kbd>/<kbd>ctrl</kbd>+<kbd>v</kbd> keyboard shortcuts.
 
-![03](Box selecting, copying, and pasting block commands.)
+![03](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/03.gif "Box selecting, copying, and pasting block commands.")
 
 Blocks can be rearranged by clicking them and dragging them in the desired order. Dragging them outside of the workspace causes them to be removed from the program, and they can be box selected to remove multiple at a time.
 
-![04](Removing block commands.)
+![04](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/04.gif "Removing block commands.")
 
 The controls on the text editor are the same as with any word-processing program (e.g. [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad) or [Word](https://en.wikipedia.org/wiki/Microsoft_Word)), with backspacing, highlighting, and the same copy/paste methods.
 
-![05](Text editor controls.)
+![05](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/05.gif "Text editor controls.")
 
 Dragging and dropping block commands from the toolbox in text mode pastes the corresponding text into the editor.
 
-![06](Dragging blocks into text.)
+![06](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/06.gif "Dragging blocks into text.")
 
 ## Debugging in AppLab
 
@@ -71,11 +71,11 @@ By default, lines of code are executed almost instantaneously. However, it may h
 
 AppLab has a slider under the workspace that allows you to change the execution speed of the code.
 
-![07](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/02.png "Speed slider.")
+![07](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/07.png "Speed slider.")
 
 When doing turtle programming, this allows you to see the actions of the turtle that you'd otherwise be unable to see with near-instantaneous execution of the code. Moreover, AppLab highlights each line of code as they are run when the execution speed is not set to instantaneous (with the slider all the way to the right).
 
-
+![08]("Line-by-line highlighting and execution.")
 
 More details on debug tools available in AppLab will be covered at a later time.
 
