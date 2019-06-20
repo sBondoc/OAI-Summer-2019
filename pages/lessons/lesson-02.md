@@ -38,7 +38,7 @@ Something similar can be done in AppLab.
 
 ![03](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-02/03.png "AppLab function blocks.")
 
-There is no function definition or command for `moveForward` or `turnLeft` in Thunkable, so it would result in an error if executed. However, even if they were defined, the code still wouldn't do anything. Niether would the above JavaScript. This is because both the Thunkable blocks and the JavaScript code lack a function call. That is, the function is defined, but it is not being executed. In Thunkable, there needs to be an event or trigger for anything to happen, and in the JavaScript above, there is nothing in the main code that calls for `main()` (a function) or `myFunction()` to be executed.
+There is no function definition or command for `moveForward` or `turnLeft` in Thunkable, so it would result in an error if executed. However, even if they were defined, the code still wouldn't do anything. Niether would the above JavaScript. This is because both the Thunkable blocks and the JavaScript code lack a function call. That is, the function is defined, but it is not being executed. In Thunkable, there needs to be an event or trigger for anything to happen, and in the JavaScript above, there is nothing in the main code that calls for `main()` (a function, as indicated by the yellow warning symbol) or `myFunction()` to be executed.
 
 In order for the JavaScript to do something in AppLab, you would have to call `myFunction()` or `main()` somewhere in the main code (outside of the function definition brackets).
 
