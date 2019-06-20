@@ -26,9 +26,45 @@ In virtually every coding language, indentation is used to keep thinks like func
 
 ## How functions work
 
-* Commands within function are executed from top to bottom
+* Commands within a function are executed from top to bottom
 * AppLab jumps to the function definition and highlights accordingly when execution speed is lowered
 * Functions can be called inside functions
+
+You may remember using functions in Thunkable or MIT App Inventor.
+
+![02](Thunkable function blocks.)
+
+Something similar can be done in AppLab.
+
+![03](AppLab function blocks.)
+
+There is no function definition or command for `moveForward` or `turnLeft` in Thunkable, so it would result in an error if executed. However, even if they were defined, the code still wouldn't do anything. Niether would the above JavaScript. This is because both the Thunkable blocks and the JavaScript code lack a function call. That is, the function is defined, but it is not being executed. In Thunkable, there needs to be an event or trigger for anything to happen, and in the JavaScript above, there is nothing in the main code that calls for `main()` (a function) or `myFunction()` to be executed.
+
+In order for the JavaScript to do something in AppLab, you would have to call `myFunction()` or `main()` somewhere in the main code (outside of the function definition brackets).
+
+```javascript
+function main() {
+  moveForward();
+  moveForward();
+  turnLeft();
+  moveForward();
+  moveForward();
+  myFunction
+}
+
+function myFunction() {
+  turnLeft();
+  turnLeft();
+  turnLeft();
+  moveForward();
+}
+
+main();
+```
+
+Notice that `main()` contains a call for `myFunction()` within its list of commands. That means while executing `main()`, `myFunction()` will execute after the commands before it within the function definition.
+
+Also note the parentheses (`()`) at the end of the function definitions and calls. These are necessary and their purpose will be explained in the next lesson.
 
 ---
 
