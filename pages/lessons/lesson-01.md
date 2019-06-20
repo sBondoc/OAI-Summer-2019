@@ -35,7 +35,21 @@ Executing this code should yield the following end result:
 
 ## Debugging in AppLab
 
+* "Debugging" is essentially fixing your code
+* You can change the speed at which the lines of code are executed
+* Slowing down the execution allows you to see what the turtle does step-by-step
 
+By default, lines of code are executed almost instantaneously. However, it may help to see the program as it's executing, rather than just the end result, especially if something went wrong along the way and what you end up with isn't what you'd hoped for.
+
+AppLab has a slider under the workspace that allows you to change the execution speed of the code.
+
+![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/02.png "Speed slider.")
+
+When doing turtle programming, this allows you to see the actions of the turtle that you'd otherwise be unable to see with near-instantaneous execution of the code. Moreover, AppLab highlights each line of code as they are run when the execution speed is not set to instantaneous (with the slider all the way to the right).
+
+
+
+More details on debug tools available in AppLab will be covered at a later time.
 
 ## Comparison with MIT App Inventor
 
