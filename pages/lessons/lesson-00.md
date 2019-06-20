@@ -107,4 +107,4 @@ The drawback with AppLab is that there is no way to export what you've created t
 
 ---
 
-<div style="text-align: right"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><i><b>Continue to next lesson...
+<div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/index.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html"><b>>></b></a></div>
