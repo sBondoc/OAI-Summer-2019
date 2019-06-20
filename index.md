@@ -14,11 +14,11 @@ Lessons with links to Code.org exercises are designed to correspond with activit
 
 * **[Intro to AppLab](/OAI-Summer-2019/pages/lessons/lesson-00.html)** - An overview of the AppLab platform.
 * **[Turtle programming](/OAI-Summer-2019/pages/lessons/lesson-01.html)** - Coding with turtle graphics.
+* **[Functions]()** - Callable subroutines.
+* **[Loops]()** - Sequences of repeated instructions.
 * **[Variables]()** - Changeable stored values.
 * **[Conditionals]()** - Implementation of logic.
-* **[Functions]()** - Callable subroutines.
 * **[Parameters]()** - Input variables.
-* **[Loops]()** - Lists of repeated instructions.
 * **[Design]()** - Description of the elements of AppLab's "Design" tab.
 
 ## Android Studio
