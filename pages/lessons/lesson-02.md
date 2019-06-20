@@ -64,7 +64,7 @@ main();
 
 Notice that `main()` contains a call for `myFunction()` within its list of commands. That means while executing `main()`, `myFunction()` will execute after the commands before it within the function definition.
 
-Also note the parentheses (`()`) at the end of the function definitions and calls. These are necessary and their purpose will be explained in the next lesson.
+Also note the parentheses `()` at the end of the function definitions and calls. These are necessary and their purpose will be explained in the next lesson.
 
 ---
 
