@@ -2,7 +2,7 @@
 
 This page contains curricula designed to teach the basics of app development and computer science, with a focus on using coding as a more functionally concrete way to teach more abstract concepts. The material here acts to facilitate the transitional phase between simplistic app development platforms and real-world programming.
 
-_Brought to you by the [UCI Office of Access and Inclusion (OAI)](http://tech.uci.edu/access/index.php)._
+_Brought to you by the [UCI Office of Access and Inclusion (OAI)](https://tech.uci.edu/access/index.php)._
 
 ## AppLab
 
@@ -12,8 +12,8 @@ Lessons with links to Code.org exercises are designed to correspond with activit
 
 ### Lessons
 
-* **[Intro to AppLab](/pages/lessons/lesson-00.html)**
-* **[Turtle programming](https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html)**
+* **[Intro to AppLab](/OAI-Summer-2019/pages/lessons/lesson-00.html)** - An overview of the AppLab platform.
+* **[Turtle programming](/OAI-Summer-2019/pages/lessons/lesson-01.html)**
 * **[Functions]()**
 * **[Parameters]()**
 * **[Loops]()**
