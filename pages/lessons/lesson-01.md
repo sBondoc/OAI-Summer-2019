@@ -29,7 +29,7 @@ moveForward();
 moveForward();
 ```
 
-Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't forget to add them at the end.
+Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't forget to add them.
 
 Executing this code should yield the following end result:
 
