@@ -57,7 +57,7 @@ The controls on the text editor are the same as with any word-processing program
 
 ![05](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/05.gif "Typing commands.")
 
-Copying and pasting content is the same as in other text editors, with the right-click functionality as well as the aforementioned [<kbd>ctrl</kbd>+<kbd>c</kbd>]/[<kbd>ctrl</kbd>+<kbd>v</kbd>] keyboard shortcuts.
+Copying and pasting content is the same as in other text editors, with the right-click functionality as well as the aforementioned <kbd>ctrl</kbd>+<kbd>c</kbd>/<kbd>ctrl</kbd>+<kbd>v</kbd> keyboard shortcuts.
 
 ![06](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/06.gif "Copy/pasting in text editor.")
 
