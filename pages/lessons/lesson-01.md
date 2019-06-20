@@ -85,7 +85,7 @@ When doing turtle programming, this allows you to see the actions of the turtle 
 
 ![10](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/10.gif "Line-by-line highlighting and execution.")
 
-More details on debug tools available in AppLab will be covered at a later time.
+More details on debug tools available in AppLab will be covered at a later time. For now, the speed controls are to be used as a way of browsing the inner workings of the instructions brought together in the program and learning the sequential nature of programs.
 
 ## Comparison with MIT App Inventor
 
