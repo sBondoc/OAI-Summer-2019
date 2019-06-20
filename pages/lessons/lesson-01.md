@@ -53,13 +53,21 @@ Blocks can be rearranged by clicking them and dragging them in the desired order
 
 ![04](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/04.gif "Removing block commands.")
 
-The controls on the text editor are the same as with any word-processing program (e.g. [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad) or [Word](https://en.wikipedia.org/wiki/Microsoft_Word)), with backspacing, highlighting, and the same copy/paste methods.
+The controls on the text editor are the same as with any word-processing program (e.g. [Notepad](https://en.wikipedia.org/wiki/Microsoft_Notepad) or [Word](https://en.wikipedia.org/wiki/Microsoft_Word)). As you're typing, AppLab will also provide autofill suggestions for commands.
 
-![05](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/05.gif "Text editor controls.")
+![05](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/05.gif "Typing commands.")
 
-Dragging and dropping block commands from the toolbox in text mode pastes the corresponding text into the editor.
+Copying and pasting content is the same as in other text editors, with the right-click functionality as well as the aforementioned [<kbd>ctrl</kbd>+<kbd>c</kbd>]/[<kbd>ctrl</kbd>+<kbd>v</kbd>] keyboard shortcuts.
 
-![06](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/06.gif "Dragging blocks into text.")
+![06](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/06.gif "Copy/pasting in text editor.")
+
+Getting rid of text commands is also the same.
+
+![07](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/07.gif "Removing text commands.")
+
+Another feature of AppLab is that dragging and dropping block commands from the toolbox in text mode pastes the corresponding text into the editor.
+
+![08](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/08.gif "Dragging blocks into text.")
 
 ## Debugging in AppLab
 
@@ -71,11 +79,11 @@ By default, lines of code are executed almost instantaneously. However, it may h
 
 AppLab has a slider under the workspace that allows you to change the execution speed of the code.
 
-![07](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/07.png "Speed slider.")
+![09](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/09.png "Speed slider.")
 
 When doing turtle programming, this allows you to see the actions of the turtle that you'd otherwise be unable to see with near-instantaneous execution of the code. Moreover, AppLab highlights each line of code as they are run when the execution speed is not set to instantaneous (with the slider all the way to the right).
 
-![08]("Line-by-line highlighting and execution.")
+![10]("Line-by-line highlighting and execution.")
 
 More details on debug tools available in AppLab will be covered at a later time.
 
