@@ -29,9 +29,9 @@ moveForward();
 moveForward();
 ```
 
-Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't forget to add them when editing in text mode. The program might still run in AppLab, but later on you'll need to be really cognizant about syntax.
+Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't forget to add them when editing in text mode. The program might still run in AppLab, but later on you'll need to be really cognizant about syntax as you progress with other development platforms and languages.
 
-Executing this code should yield the following end result:
+Executing the above code should yield the following end result:
 
 ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-01/01.png "Final display.")
 
