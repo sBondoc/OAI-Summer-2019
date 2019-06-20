@@ -29,7 +29,7 @@ moveForward();
 moveForward();
 ```
 
-Notice the semicolons (`;`) at the ends of the lines. These are necessary; don't forget to add them when editing in text mode. The program might still run in AppLab, but later on you'll need to be really cognizant about syntax as you progress with other development platforms and languages.
+Notice the semicolons `;` at the ends of the lines. These are necessary; don't forget to add them when editing in text mode. The program might still run in AppLab, but later on you'll need to be really cognizant about syntax as you progress with other development platforms and languages.
 
 Executing the above code should yield the following end result:
 
