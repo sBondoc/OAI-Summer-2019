@@ -11,7 +11,7 @@ Functions are subroutines that can be called like commands. Essentially, making 
 
 </ul>
 
-## Makin</a> functions
+## Making functions
 
 * Functions are written like any other instructions
 * Code blocks show commands within the function as enclosed by the function block
