@@ -1,8 +1,14 @@
-# Welcome to ASPIRE 2019!
+# Welcome to OAI Summer
 
 This page contains curricula designed to teach the basics of app development and computer science, with a focus on using coding as a more functionally concrete way to teach more abstract concepts. The material here acts to facilitate the transitional phase between simplistic app development platforms and real-world programming.
 
 _Brought to you by the [UCI Office of Access and Inclusion (OAI)](https://tech.uci.edu/access/index.php)._
+
+## Raspberry Pi
+
+A .pdf of the Raspberry Pi training slides can be found here:
+
+[Raspberry Pi Training](https://sbondoc.github.io/OAI-Files/pdf/Raspberry%20Pi%20Training.pdf)
 
 ## AppLab
 
