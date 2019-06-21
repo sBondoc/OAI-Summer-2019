@@ -15,7 +15,7 @@ Lessons with links to Code.org exercises are designed to correspond with activit
 * **[Intro to AppLab](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-00.html)** - An overview of the AppLab platform.
 * **[Turtle programming](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-01.html)** - Coding with turtle graphics.
 * **[Functions](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html)** - Callable subroutines.
-* **[Parameters](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-03.html)** - Input variables.
+* **[Parameters](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-03.html)** - Function inputs.
 * **[Loops](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-04.html)** - Repeated instructions.
 * **[Design](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-05.html)** - Description of the elements of AppLab's "Design" tab.
 * **[Variables](https://sBondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-06.html)** - Changeable stored values.
