@@ -4,9 +4,11 @@ Functions are subroutines that can be called like commands. Essentially, making 
 
 ### Exercises to accompany this lesson:
 <ul>
-<li><b><a href="https://studio.code.org/s/csp3-2019/stage/5/puzzle/1" target="_blank">Lesson 5: "Creating Functions"</a></b> <i>from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)</i></li>
+
+<li><b><a href="https://studio.code.org/s/csp3-2019/stage/5/puzzle/1" target="_blank">Lesson 5: "Creating Functions"</a></b> <i>from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at <a href="https://code.org">Code.org</a></i></li>
 
 <li><b><a href="https://studio.code.org/s/csp3-2019/stage/6/puzzle/1" target="_blank">Lesson 6: "Functions and Top-Down Design"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
+
 </ul>
 
 ## Makin</a> functions
