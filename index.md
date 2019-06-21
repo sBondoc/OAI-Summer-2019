@@ -8,7 +8,7 @@ _Brought to you by the [UCI Office of Access and Inclusion (OAI)](https://tech.u
 
 A .pdf of the Raspberry Pi training slides can be found here:
 
-[Raspberry Pi Training](https://sbondoc.github.io/OAI-Summer-2019/pages/Raspberry%20Pi%20Training.html)
+**[Raspberry Pi Training](https://sbondoc.github.io/OAI-Summer-2019/pages/Raspberry%20Pi%20Training.html)**
 
 ## AppLab
 
