@@ -3,12 +3,13 @@
 Functions are subroutines that can be called like commands. Essentially, making a function is like defining your own command that's made up of other commands. This helps keep things organized and can save time writing a certain sequence of commands that gets repeated throughout your code.
 
 ### Exercises to accompany this lesson:
+<ul>
+<li><b><a href="https://studio.code.org/s/csp3-2019/stage/5/puzzle/1" target="_blank">Lesson 5: "Creating Functions"</a></b> <i>from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)</i></li>
 
-<b><a href = "https://studio.code.org/s/csp3-2019/stage/5/puzzle/1" target = "_blank">Lesson 5: "Creating Functions"</a></b> _from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)_
+<li><b><a href="https://studio.code.org/s/csp3-2019/stage/6/puzzle/1" target="_blank">Lesson 6: "Functions and Top-Down Design"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
+</ul>
 
-<b><a href = "https://studio.code.org/s/csp3-2019/stage/6/puzzle/1" target = "_blank">Lesson 6: "Functions and Top-Down Design"</a></b> _from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)_
-
-## Making functions
+## Makin</a> functions
 
 * Functions are written like any other instructions
 * Code blocks show commands within the function as enclosed by the function block
