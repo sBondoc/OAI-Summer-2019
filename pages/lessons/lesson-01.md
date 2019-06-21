@@ -3,6 +3,7 @@
 Programming using [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) helps people get acquainted with the flow of programs. This lesson will focus on using turtle commands in AppLab to perform the tasks designated in the exercises.
 
 ### Exercises to accompany this lesson:
+
 <ul>
 <li><b><a href="https://studio.code.org/s/csp3-2019/stage/4/puzzle/1" target="_blank">Lesson 4: "Using Simple Commands"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
 </ul>
