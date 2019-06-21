@@ -1,6 +1,6 @@
 # Parameters
 
-Functions are used for a lot more than just saving time writing repeated code. Sometimes you want a function to do something slightly different depending on the situation in which it's implemented. Functions
+Functions are used for a lot more than just saving time writing repeated code. Sometimes you want a function to do something slightly different depending on the situation in which it's implemented. Functions can use parameters to perform certain tasks to different inputs.
 
 ### Exercises to accompany this lesson:
 
