@@ -4,9 +4,9 @@
 
 <ul>
 
-<li><b><a href="https://studio.code.org/s/csp3-2019/stage/5/puzzle/1" target="_blank">Lesson 5: "Creating Functions"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
+<li><b><a href="https://studio.code.org/s/csp3-2019/stage/7/puzzle/1" target="_blank">Lesson 7: "APIs and Function Parameters"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
 
-<li><b><a href="https://studio.code.org/s/csp3-2019/stage/6/puzzle/1" target="_blank">Lesson 6: "Functions and Top-Down Design"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
+<li><b><a href="https://studio.code.org/s/csp3-2019/stage/8/puzzle/1" target="_blank">Lesson 8: "Creating Functions with Parameters"</a></b> <i>from <a href="https://studio.code.org/s/csp3-2019">AP Computer Science Principles Unit 3</a> at <a href="https://code.org">Code.org</a></i></li>
 
 </ul>
 
