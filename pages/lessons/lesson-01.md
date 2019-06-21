@@ -4,7 +4,7 @@ Programming using [Turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphic
 
 ### Exercises to accompany this lesson:
 <ul>
-<li><b><a href = "https://studio.code.org/s/csp3-2019/stage/4/puzzle/1" target = "_blank">Lesson 4: "Using Simple Commands"</a></b> _from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)_<li>
+<li><b><a href = "https://studio.code.org/s/csp3-2019/stage/4/puzzle/1" target = "_blank">Lesson 4: "Using Simple Commands"</a></b> <i>from [AP Computer Science Principles Unit 3](https://studio.code.org/s/csp3-2019) at [Code.org](https://code.org)</i></li>
  </ul>
 
 ## Commands
