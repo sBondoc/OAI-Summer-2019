@@ -16,11 +16,11 @@ Functions are subroutines that can be called like commands. Essentially, making 
 
 Adding commands to a function is the same as adding commands to the main code. You can use code blocks...
 
-![00]("Adding code blocks to function blocks.")
+![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-02/00.gif "Adding code blocks to function blocks.")
 
 ... or you can type text...
 
-![01]("Adding text to function definitions.")
+![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-02/01.gif "Adding text to function definitions.")
 
 In virtually every coding language, indentation is used to keep thinks like function definitions organized (although in some cases indentation may not be required). This way it is easier to discern which commands are part of the function you're looking at.
 
