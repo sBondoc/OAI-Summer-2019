@@ -1,6 +1,10 @@
-# Welcome to OAI Summer
+# Welcome to OAI Summer Session!
 
-This page contains curricula designed to teach the basics of app development and computer science, with a focus on using coding as a more functionally concrete way to teach more abstract concepts. The material here acts to facilitate the transitional phase between simplistic app development platforms and real-world programming.
+### ASPIRE
+
+ASPIRE (Access Summer Program to Inspire Recruit and Enrich) leverages the Schools’ facilities and participating faculty for a 2-Week Engineering and Computer Science Course over the summer period. Working in classrooms university facilities, students learn skills across the broad spectrum of engineering and computer science disciplines.
+
+---
 
 _Brought to you by the [UCI Office of Access and Inclusion (OAI)](https://tech.uci.edu/access/index.php)._
 
@@ -12,7 +16,9 @@ A .pdf of the Raspberry Pi training slides can be found here:
 
 ## AppLab
 
-These lessons will focus on using AppLab to solidify the basics of coding taught previously through code blocks.
+These pages contain curricula designed to teach the basics of app development and computer science, with a focus on using coding as a more functionally concrete way to teach more abstract concepts. The material here acts to facilitate the transitional phase between simplistic app development platforms and real-world programming.
+
+The lessons will focus on using AppLab to solidify the basics of coding taught previously through code blocks.
 
 Lessons with links to Code.org exercises are designed to correspond with activities that are to be completed alongside learning the material from the lesson.
 
