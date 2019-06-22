@@ -26,4 +26,6 @@ Lessons with links to Code.org exercises are designed to correspond with activit
 
 ## Files
 
+* **[OAI Bootcamp](https://sbondoc.github.io/OAI-Summer-2019/pages/OAI%20Bootcamp.html)**
 * **[Raspberry Pi Training](https://sbondoc.github.io/OAI-Summer-2019/pages/Raspberry%20Pi%20Training.html)**
+* **[Quadcopter Training](https://sbondoc.github.io/OAI-Summer-2019/pages/Quadcopter%20Training.html)**
