@@ -1,8 +1,10 @@
 # Welcome to OAI Summer Session!
 
+Thank you for joining us at UCI for the summer! During your time here, you'll be learning from
+
 ### ASPIRE
 
-ASPIRE (Access Summer Program to Inspire Recruit and Enrich) leverages the Schools’ facilities and participating faculty for a 2-Week Engineering and Computer Science Course over the summer period. Working in classrooms university facilities, students learn skills across the broad spectrum of engineering and computer science disciplines.
+> ASPIRE (Access Summer Program to Inspire Recruit and Enrich) leverages the Schools’ facilities and participating faculty for a 2-Week Engineering and Computer Science Course over the summer period. Working in classrooms university facilities, students learn skills across the broad spectrum of engineering and computer science disciplines.
 
 ---
 
