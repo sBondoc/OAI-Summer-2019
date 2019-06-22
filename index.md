@@ -1,11 +1,5 @@
 # Welcome to OAI Summer Session!
 
-## Raspberry Pi
-
-A .pdf of the Raspberry Pi training slides can be found here:
-
-**[Raspberry Pi Training](https://sbondoc.github.io/OAI-Summer-2019/pages/Raspberry%20Pi%20Training.html)**
-
 ## AppLab
 
 <!--These pages contain curricula designed to teach the basics of app development and computer science, with a focus on using coding as a more functionally concrete way to teach more abstract concepts.-->
@@ -28,3 +22,8 @@ Lessons with links to Code.org exercises are designed to correspond with activit
 ## Android Studio
 
 (Coming soon!™)
+
+
+## Files
+
+* **[Raspberry Pi Training](https://sbondoc.github.io/OAI-Summer-2019/pages/Raspberry%20Pi%20Training.html)**
