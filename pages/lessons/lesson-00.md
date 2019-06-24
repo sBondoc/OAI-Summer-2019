@@ -77,11 +77,11 @@ For now, we'll focus on how to code using AppLab.
 * UI elements are created in with their own interface, similar to MIT App Inventor and Thunkable
 * With AppLab, you can toggle between code blocks and a text editor for scripts
 
-If you started with the MIT App Inventor or Thunkable, you're probably more accustomed to looking at code blocks, which you can still use in AppLab.
+If you started with the MIT App Inventor or Thunkable, you're probably more accustomed to looking at code blocks, which you can still use in AppLab:
 
 ![03](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/03.png "Code blocks.")
 
-AppLab helps facilitate the transition between code blocks and text by allowing you to fluidly switch between the two. The code blocks above are expressed in text below.
+AppLab helps facilitate the transition between code blocks and text by allowing you to fluidly switch between the two. The code blocks above are expressed in text below:
 
 ![04](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/04.png "Console text.")
 
@@ -95,11 +95,11 @@ When doing the exercises on Code.org, feel free to continue using code blocks as
 
 Unlike with Thunkable and the MIT App Inventor, you don't have to download an app onto your phone, connect via USB, or utilize any external resources. There is an emulator right on the page next to the workspace.
 
-In order to run your code, simply click the "Run" button underneath.
+In order to run your code, simply click the "Run" button underneath:
 
 ![05](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/05.png "Emulator pre-execution.")
 
-The "Reset" button that appears after the "Run" button is clicked terminates the code in progress.
+The "Reset" button that appears after the "Run" button is clicked terminates the code in progress:
 
 ![06](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-00/06.png "Emulator mid-execution.")
 
