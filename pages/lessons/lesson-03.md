@@ -32,7 +32,7 @@ In AppLab, you can use add a new parameter definition to a function declaration 
 
 For function calls, instead of typing parameter names within the parentheses, you input values that can be referenced under the name of the parameter as defined in the function declaration:
 
-``javascript
+```javascript
 myFunction(3,7);
 ```
 
