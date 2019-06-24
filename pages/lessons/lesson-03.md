@@ -12,17 +12,21 @@ Functions are used for a lot more than just saving time writing repeated code. S
 
 </ul>
 
-## Adding parameters to functions
-
-* Parameters for a function are declared within the parentheses `()` of the function definition
-* Clicking the right arrow ![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/00.png) on a function block adds a new parameter and clicking the left arrow ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png) removes it
-* Parameters are separated by commas `,` in text mode
-
 
 ## Using parameters in function calls
 
-* Values for parameters can be inputted in function calls
+* Parameter values for a function are declared within the parentheses `()` of the function call
+* Clicking the right arrow  on a function block adds a new parameter and clicking the left arrow removes the last parameter
+* Parameters are separated by commas `,` in text mode
 
+## Adding new parameters to functions
+
+* Parameters for a function are declared within the parentheses `()` of the function definition
+* Clicking the right arrow  on a function block adds a new parameter and clicking the left arrow removes the last parameter
+* Parameters are separated by commas `,` in text mode
+
+![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png)
+![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png)
 ---
 
 <div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-04.html"><b>>></b></a></div>
