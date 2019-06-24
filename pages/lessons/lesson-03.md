@@ -15,7 +15,7 @@ Functions are used for a lot more than just saving time writing repeated code. S
 ## Adding parameters to functions
 
 * Parameters for a function are declared within the parentheses `()` after the function name in the function call
-* Clicking the right arrow ![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/00.png) at the end of the top part of the function block adds a new parameter and clicking the left arrow ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png) removes it
+* Clicking the right arrow ![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/00.png) on a function block adds a new parameter and clicking the left arrow ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png) removes it
 * Parameters are separated by commas `,` in text mode
 
 
