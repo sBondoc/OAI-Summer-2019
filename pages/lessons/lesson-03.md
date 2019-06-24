@@ -30,6 +30,16 @@ In AppLab, you can use add a new parameter definition to a function declaration 
 
 ![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/02.gif "Adding and removing parameters in block view.")
 
+For function calls, instead of typing parameter names within the parentheses, you input values that can be referenced under the name of the parameter as defined in the function declaration:
+
+``javascript
+myFunction(3,7);
+```
+
+The process for inputting parameter values in block view is the same as when adding parameter definitions to the function declaration:
+
+![03](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/03.gif "Adding and removing parameter values in block view.")
+
 
 ## Using parameters in functions
 
