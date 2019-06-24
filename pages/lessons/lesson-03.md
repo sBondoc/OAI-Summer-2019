@@ -22,7 +22,7 @@ The parentheses `()` that you've been adding at the end of each function and com
 
 ```javascript
 function myFunction(myParameter1, myParameter2) {
-  // --- Your code here --- //
+
 }
 ```
 
