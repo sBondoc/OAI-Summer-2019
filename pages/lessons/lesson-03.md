@@ -26,7 +26,7 @@ function myFunction(myParameter1, myParameter2) {
 }
 ```
 
-In AppLab, you can use add a new parameter definition to a function declaration in block view by clicking the right arrow ![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/00.png) at the top of the block, and clicking the left arrow ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png) removes the last parameter definition in the top of the block:
+In AppLab, you can use add a new parameter definition to a function declaration in block view by clicking the right arrow ![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/00.png) at the top of the block, while clicking the left arrow ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/01.png) removes the last parameter definition in the top of the block:
 
 ![02](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/02.gif)
 
