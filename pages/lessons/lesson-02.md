@@ -66,7 +66,7 @@ function myFunction() {
 main();
 ```
 
-Notice that `main()` contains a call for `myFunction()` within its list of commands. That means while executing `main()`, `myFunction()` will execute after the commands before it within the function definition.
+Notice that `main()` contains a call for `myFunction()` within its list of commands. That means while executing `main()`, `myFunction()` will execute after the commands before it within the function definition. Keep in mind the difference between a function "definition" (or "declaration," the code that lays out what the function does) and a function "call" (actually using the function that has been defined).
 
 Also note the parentheses `()` at the end of the function definitions and calls. These are necessary and their purpose will be explained in the next lesson.
 
