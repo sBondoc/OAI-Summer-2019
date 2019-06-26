@@ -16,9 +16,11 @@ Functions are used for a lot more than just saving time writing repeated code. S
 
 * Parameters for a function are declared within the parentheses `()` of the function after the name
 * Each parameter is separated by a comma `,`
-* Values in function calls correspond with parameters in the respective function definition in sequential order
 
-The parentheses `()` that you've been adding at the end of each function and command (e.g. `moveForward`, `turnLeft`) are where parameters are supposed to go. In a function definition, you define a parameter by adding a name for it inside those parentheses. If you'd like to have multiple parameter definitions, you separate them with a comma `,`:
+
+The parentheses `()` that you've been adding at the end of each function and command (e.g. `moveForward`, `turnLeft`) are where parameters are supposed to go, so technically, you've been using turtle "commands" as parameterless functions.
+
+In a function definition, you define a parameter by adding a name for it inside those parentheses. If you'd like to have multiple parameter definitions, you separate them with a comma `,`:
 
 ```javascript
 function myFunction(myParameter1, myParameter2) {
@@ -43,9 +45,7 @@ The process for inputting parameter values in block view is the same as when add
 
 ## Using parameters in functions
 
-* Parameter values for a function are declared within the parentheses `()` of the function call
-* Clicking the right arrow  on a function call block adds parameter value and clicking the left arrow removes the last parameter value
-* Parameter values are separated by commas `,` in text mode
+* Values in function calls correspond with parameters in the respective function definition in sequential order
 
 Adding parameters to functions allows them to be more versatile, keeping the code shorter and easier to read.
 
