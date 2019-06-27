@@ -54,6 +54,8 @@ Adding parameters to functions allows them to be more versatile, keeping the cod
 
 Consider the `moveForward` turtle function. So far, you've only been able to move it forward one "space," a more or less discrete amount. So, if you wanted to move the turtle forward 5 spaces, you'd have to call `moveForward()` 5 times:
 
+![04](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/04.gif "Moving forward without parameters.")
+
 However, this doesn't allow you to move forward a fraction of a space. This is where parameters come in. `moveForward` actually has a distance parameter, and up until now, you haven't been inputting a value for it, so it's been moving the default distance (25 pixels). By using the parameter in the `moveForward` function, you can now move the turtle forward in smaller increments:
 
 ```javascript
