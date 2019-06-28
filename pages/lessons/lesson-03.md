@@ -68,6 +68,8 @@ Not only that, we can complete the aforementioned step of moving forward the tur
 moveForward(125);
 ```
 
+Sometimes a function will have multiple parameters. Say you wanted to make a function called `moveForwardAndTurnLeft()`
+
 ---
 
 <div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-04.html"><b>>></b></a></div>
