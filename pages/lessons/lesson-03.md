@@ -56,7 +56,7 @@ Consider the `moveForward` turtle function. So far, you've only been able to mov
 
 ![04](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/04.gif "Moving forward without parameters.")
 
-However, this doesn't allow you to move forward a fraction of a space. This is where parameters come in. The `moveForward()` function actually has a distance parameter, and up until now, you haven't been inputting a value for it, so it's been moving the default distance (25 pixels). By using the parameter in the `moveForward` function, you can now move the turtle forward in smaller increments:
+However, this doesn't allow you to move forward a fraction of a space. This is where parameters come in. The `moveForward()` function actually has a distance parameter, and up until now, you haven't been inputting a value for it, so it's been moving the default distance (25 pixels). By using the parameter in the `moveForward()` function, you can now move the turtle forward in smaller increments:
 
 ```javascript
 moveForward(5);
@@ -68,7 +68,11 @@ Not only that, we can complete the aforementioned step of moving forward the tur
 moveForward(125);
 ```
 
-Sometimes a function will have multiple parameters. Say you wanted to make a function called `moveForwardAndTurnLeft()`
+Similarly, the `turnLeft()` function has a parameter for angle, with the default being 90° when no value is added. Inputting values for the parameter allows for the turtle to turn in more precise increments:
+
+![05](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/05.gif "Turning left with parameters.")
+
+Note that you can input negative values for both `moveForward()` and `turnLeft()` to move the turtle backward or turn it to the right, respectively.
 
 ---
 
