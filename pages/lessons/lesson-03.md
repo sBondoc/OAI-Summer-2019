@@ -109,10 +109,6 @@ moveForwardAndTurnLeft(50, 90);
 
 Always be sure to pay close attention to the order of your parameters.
 
-## Setting default values in JavaScript
-
-
-
 ---
 
 <div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-04.html"><b>>></b></a></div>
