@@ -52,7 +52,7 @@ Keep in mind that function definitions are where you put the parameter name itse
 
 Adding parameters to functions allows them to be more versatile, keeping the code shorter and easier to read. Making the comparison to math, a function will take an input and yield an output based on the function. It's the same with functions in coding.
 
-Consider the `moveForward` turtle function. So far, you've only been able to move it forward one "space," a more or less discrete amount. So, if you wanted to move the turtle forward 5 spaces, you'd have to call `moveForward()` 5 times:
+Consider the `moveForward()` turtle function. So far, you've only been able to move it forward one "space," a more or less discrete amount. So, if you wanted to move the turtle forward 5 spaces, you'd have to call `moveForward()` 5 times:
 
 ![04](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-03/04.gif "Moving forward without parameters.")
 
