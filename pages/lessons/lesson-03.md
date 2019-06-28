@@ -74,6 +74,45 @@ Similarly, the `turnLeft()` function has a parameter for angle, with the default
 
 Note that you can input negative values for both `moveForward()` and `turnLeft()` to move the turtle backward or turn it to the right, respectively.
 
+Now, say that you wanted a function called `moveForwardAndTurnLeft()` that moves the turtle forward a certain distance and turns it to the left a certain angle. Because you want the function to allow you to specify two values, you'd have to have two parameters in the function definition:
+
+```javascript
+function moveForwardAndTurnLeft(distance, angle) {
+
+}
+
+```
+
+Then, in order to have the function move the turtle and turn it, you'd add the the `moveForward()` and `turnLeft()` functions:
+
+```javascript
+function moveForwardAndTurnLeft(distance, angle) {
+  moveForward();
+  turnLeft();
+}
+```
+
+However, as it is, this function just uses the default values. For their parameter values, you input the names of the respective parameters defined in the function declaration:
+
+```javascript
+function moveForwardAndTurnLeft(distance, angle) {
+  moveForward(distance);
+  turnLeft(angle);
+}
+```
+
+Now, if you wanted to call `moveForwardAndTurnLeft()` to move the turtle forward 50 pixels and turn left 90°, then you'd input the values `50` and `90` as the first and second parameter values in the function call, respectively:
+
+```javascript
+moveForwardAndTurnLeft(50, 90);
+```
+
+Always be sure to pay close attention to the order of your parameters.
+
+## Setting default values in JavaScript
+
+
+
 ---
 
 <div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-02.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-04.html"><b>>></b></a></div>
