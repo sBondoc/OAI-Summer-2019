@@ -107,7 +107,7 @@ Now, if you wanted to call `moveForwardAndTurnLeft()` to move the turtle forward
 moveForwardAndTurnLeft(50, 90);
 ```
 
-Always be sure to pay close attention to the order of your parameters.
+Always be sure to pay close attention to the order of your parameters. Default values for parameters will be covered in a later lesson.
 
 ---
 
