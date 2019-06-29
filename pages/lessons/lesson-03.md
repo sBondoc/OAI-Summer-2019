@@ -101,7 +101,7 @@ function moveForwardAndTurnLeft(distance, angle) {
 }
 ```
 
-Now, if you wanted to call `moveForwardAndTurnLeft()` to move the turtle forward 50 pixels and turn left 90°, then you'd input the values `50` and `90` as the first and second parameter values in the function call, respectively:
+If you wanted to call `moveForwardAndTurnLeft()` to move the turtle forward 50 pixels and turn left 90°, then you'd input the values `50` and `90` as the first and second parameter values in the function call, respectively:
 
 ```javascript
 moveForwardAndTurnLeft(50, 90);
