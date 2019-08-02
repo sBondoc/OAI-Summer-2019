@@ -10,9 +10,17 @@ One of the core strengths of using computer programs to solve problems is their 
 
 </ul>
 
-## Syntax of a `for` loop
+## Loop syntax
 
+There are two main types of loops: `for` loops and `while` loops.
 
+The syntax of a `for` loop in JavaScript looks something like this:
+
+```javascript
+for (var i = 0; i < 5; i++) {
+  // Code
+}
+```
 
 ---
 
