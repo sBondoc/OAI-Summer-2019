@@ -38,6 +38,41 @@ If you're working with code blocks, AppLab actually only lets you modify the num
 
 ![00](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-04/00.gif "Only the repetition count for a loop can be modified in Applab code blocks.")
 
+For future reference, the three terms `var i = 0`, `i < 5`, and `i++` describe the iteration variable, the termination condition, and the incremental statement for the loop, respectively. Variables and conditionals will be covered in later lessons.
+
+## Using loops with function parameters
+
+The repetition count in a `for` loop can be dynamically set to correspond with a function parameter, if the loop is within a function. For instance, if you wanted to create a turtle function that moved the turtle forward the default distance a certain number of times based on an input parameter, you could do something like this:
+
+```javascript
+function repeatForward(count) {
+  for (var i = 0; i < count; i++) {
+    moveForward();
+  }
+}
+```
+
+Calling `repeatForward()` with a parameter value of 5 would result in the following:
+
+![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-04/00.gif "Our repeatForward() command in action")
+
+You could even throw in some `turnLeft()` commands as well to gat a sort of spiral going:
+
+```javascript
+repeatForward(1);
+turnLeft();
+repeatForward(1);
+turnLeft();
+repeatForward(2);
+turnLeft();
+repeatForward(2);
+turnLeft();
+repeatForward(3);
+turnLeft();
+repeatForward(3);
+turnLeft();
+```
+
 
 
 ---
