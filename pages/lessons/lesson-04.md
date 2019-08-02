@@ -56,7 +56,7 @@ Calling `repeatForward()` with a parameter value of 5 would result in the follow
 
 ![01](https://raw.githubusercontent.com/sBondoc/OAI-Summer-2019/master/assets/lesson-04/01.gif "Our repeatForward() command in action")
 
-You could even throw in some `turnLeft()` commands as well to gat a sort of spiral going:
+You could even throw in some `turnLeft()` commands as well to get a sort of spiral going:
 
 ```javascript
 repeatForward(1);
@@ -73,7 +73,7 @@ repeatForward(3);
 turnLeft();
 ```
 
-
+Later on, you'll be able to simplify the above code even further using more complex looping techniques after we cover variables.
 
 ---
 
