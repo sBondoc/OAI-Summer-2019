@@ -29,9 +29,12 @@ for (var i = 0; i < 5; i++) {
   // Your code here
 }
 ```
+
 Note the positioning of the start `{` and end `}` brackets. These denote the code that is considered "within" the loop and will be repeated.
 
-The `5` between the `<` and `;` is how many times the loop will be repeated. For now, you may ignore the other parts (`for (var i = 0; i < `  and `; i++)`) of the loop and keep them the same for each loop you create. Just be mindful of where the brackets go.
+The `5` between the `<` and `;` is how many times the loop will be repeated. For now, you may ignore the other parts (`for (var i = 0; i < `{:.javascript}  and `; i++)`) of the loop and keep them the same for each loop you create. Just be mindful of where the brackets go.
+
+If you're working with code blocks, AppLab actually only lets you modify the 
 
 
 
