@@ -10,18 +10,31 @@ One of the core strengths of using computer programs to solve problems is their 
 
 </ul>
 
+## The purpose of loops
+
+You've used functions to save on lines of code; if there are multiple places in your code where you want to perform an action 5 times, you can just make a function for it. But what if you want to do an action 10 times? 100? 1000?
+
+Somewhere in your program, whether it be in a function definition or in the main code, there'd still have to be 1000 lines of code for you to write down. Even if copy/pasting the lines would make it relatively simple to do this, the amount of lines in the code would make the file size of the program larger than necessary.
+
+Loops enable you to do just that. Instead of having the same line of code written down 1000 times, you can just specify in the beginning of the loop that the code within the loop is to be executed 1000 times.
+
+Moreover, this has the added flexibility to be adaptable to changes that may happen in your program; the number of times the loop is repeated can be dynamic based on conditions set by the user, as will be elaborated later.
+
 ## Loop syntax
 
-There are two main types of loops: `for` loops and `while` loops.
-
-The syntax of a `for` loop in JavaScript looks something like this:
+There are two main types of loops: `for` loops and `while` loops, the latter of which will be covered in a later lesson. The syntax of a `for` loop in JavaScript looks something like this:
 
 ```javascript
 for (var i = 0; i < 5; i++) {
   // Your code here
 }
 ```
-Note
+Note the positioning of the start `{` and end `}` brackets. These denote the code that is considered "within" the loop and will be repeated.
+
+The `5` between the `<` and `;` is how many times the loop will be repeated. For now, you may ignore the other parts (`for (var i = 0; i < ` and `; i++)`) of the loop and keep them the same for each loop you create. Just be mindful of where the brackets go.
+
+
+
 ---
 
 <div align="center"><a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-03.html"><b><<</b></a> | <a href = "https://sbondoc.github.io/OAI-Summer-2019/pages/lessons/lesson-05.html"><b>>></b></a></div>
